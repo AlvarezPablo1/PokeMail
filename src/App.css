@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.bandejaDeEntrada {
+  display: flex;
+  border: 2px solid black;
+  border-radius: 12px;
+  background-color: wheat;
+}
+
+
+@media(max-width: 768px){
+  .bandejaDeEntrada {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 12px;
+    background-color: wheat;
+  }
+}
+
+
+
+

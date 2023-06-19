@@ -1,0 +1,9 @@
+.vistaMensaje {
+  width: 65%;
+  text-align: left;
+  padding: 1rem;
+}
+
+.titulo{
+  font-size: 2rem
+}
